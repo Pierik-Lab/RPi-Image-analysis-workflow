@@ -1,0 +1,21 @@
+Pathway	Treatment	Ratio	Experiment
+//YOUR folder structure here/Pi 2022_04_08/01/22-03-17_right	FRw	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/02/22-03-17_right	FRw	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/03/22-03-17_right	FRw	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/04/22-03-17_right	FRw	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/05/22-03-17_right	WL	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/06/22-03-17_right	WL	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/07/22-03-17_right	FRt	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/08/22-03-17_right	FRt	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/09/22-03-17_right	WL	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/10/22-03-17_right	FRt	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/01/22-03-17_left	FRw	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/02/22-03-17_left	FRw	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/03/22-03-17_left	FRw	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/04/22-03-17_left	FRw	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/05/22-03-17_left	WL	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/06/22-03-17_left	WL	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/07/22-03-17_left	FRt	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/08/22-03-17_left	FRt	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/09/22-03-17_left	WL	R1.5	5
+//YOUR folder structure here/Pi 2022_04_08/10/22-03-17_left	FRt	R1.5	5
