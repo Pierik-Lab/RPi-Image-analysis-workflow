@@ -14,4 +14,5 @@ Step 4: Tracking the points of interest through the images. Use Measure all Exam
 
 Step 5: Individual Excel files are created while running the script. They are provided as an example
 
-Step 6: Analyzing the data and making graphs. Use Data_analyses_graphs_Example_Github.R Example data is one genotype and multiple treatments, so one-way ANOVA. Two-way ANOVA is provided in the script.
+Step 6: Analyzing the data and making graphs. Use Data_analyses_graphs_Example_Github.R and Experiment_infoExample_Github.txt. 
+Example data is one genotype, colomn with info on R:FR ratio (that can become genoytpe, or another second factor) and three treatments, so one-way ANOVA. Two-way ANOVA is provided as an option in the script.
