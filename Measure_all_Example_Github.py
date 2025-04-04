@@ -44,7 +44,7 @@ for i in range(len(lines)-1):
     tempn3 = tempn2[-2], tempn2[-3], tempn2[-1] 
     name = '_'.join(tempn3) # Create the unique name that will be unique per plant for the excel sheets
     video_name = name+".gif" # Makes a gif of the tracking for later visual check
-    images = [img for img in os.listdir(image_folder) if img.endswith(".jpg")]
+    images = [img for img in sorted (os.listdir(image_folder)) if img.endswith(".jpg")]
     frame  = cv2.imread(os.path.join(image_folder, images[0]))
     
     pixlen = line[1]
